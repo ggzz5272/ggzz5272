@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **2025 로봇 응용 SW전문가 양성 교육**
 
-- 💬 Ask me about **ggzz5272.github.io/profile2/**
+- 💬 Ask me about **[ggzz5272.github.io/profile2/](https://ggzz5272.github.io/profile2/)**
 
 - 📫 How to reach me **ganggod999@gmail.com**
 
