@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm gangjin</h1>
+<h1 align="left">Hi 👋, I'm Gangjin</h1>
 <h3 align="left">A developer from Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggzz5272&label=Profile%20views&color=0e75b6&style=flat" alt="ggzz5272" /> </p>
